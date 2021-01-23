@@ -9,4 +9,6 @@ fn main() {
     n.distance_set(2, 3, 4);
     let p = n.run(0, 3);
     print!("{:?}", p);
+
+    println!("End Dijkstra")
 }
